@@ -47,7 +47,7 @@ rsync -av --exclude='.*' --checksum ~/ /tmp/backup/
 -На проверку направить файл crontab и скриншот с результатом работы утилиты.
 ### Решение 2
 
-`Скрипт backup.sh``
+`Скрипт backup.sh`
 
 ```
 #!/bin/bash
